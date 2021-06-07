@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: aa7a7bbfa8b1dc54ab48cf3b0447bb6b
+  - enabled: 1
+    path: Assets/Scenes/zombi.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/cami.unity
+    guid: 4ac0a105c8c3a0c488bdf85a7976d440
+  - enabled: 1
+    path: Assets/Scenes/iyiSon1.unity
+    guid: c11a514ecc266994c8b7c47fa9a2b6a0
+  - enabled: 1
+    path: Assets/Scenes/iyiSon2.unity
+    guid: 1c0e45aac32407b46a1f4d44f3cf9ecc
+  - enabled: 1
+    path: Assets/Scenes/iyiSon3.unity
+    guid: f0536a493635700449f217ab7972e191
+  - enabled: 1
+    path: Assets/Scenes/kotuSon1.unity
+    guid: 07787d37a8360da4780deacdcfc1eac8
+  - enabled: 1
+    path: Assets/Scenes/kotuSon2.unity
+    guid: 48ca8f3e6bda4934f9306ffc4df78901
+  - enabled: 1
+    path: Assets/Scenes/KotuSon3.unity
+    guid: eac91e5160ef8b34ca15da0e042ebf30
+  - enabled: 1
+    path: Assets/Scenes/Detroid.unity
+    guid: dcda434dec39b2c4a9833a3ca7d90f3e
+  - enabled: 1
+    path: Assets/Scenes/camiBilgi.unity
+    guid: 53e73dd4433231a4c9f46fcfc8e28387
+  - enabled: 1
+    path: Assets/Scenes/detroitBilgi.unity
+    guid: 6f4f2c0b759cea14cb9865deec9751fb
+  - enabled: 1
+    path: Assets/Scenes/alex.unity
+    guid: 537a20673b7b2d340bbd5c44f3744653
+  - enabled: 1
+    path: Assets/Scenes/zombiBilgi.unity
+    guid: d712c8070599c2040b92ec50f869e99e
+  - enabled: 1
+    path: Assets/Scenes/endgame.unity
+    guid: d1d727e50b50d294fb71b9e787116416
+  m_configObjects: {}

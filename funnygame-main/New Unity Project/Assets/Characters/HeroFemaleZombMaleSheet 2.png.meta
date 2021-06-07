@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 1aa972dbdd4d83a4c998f9fdd0ebdc46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7304486400976546802
+    second: HeroFemaleZombMaleSheet_0
+  - first:
+      213: 6898699283264610278
+    second: HeroFemaleZombMaleSheet_1
+  - first:
+      213: -8271569549093023316
+    second: HeroFemaleZombMaleSheet_2
+  - first:
+      213: 225581592729298367
+    second: HeroFemaleZombMaleSheet_3
+  - first:
+      213: -2538851005046871939
+    second: HeroFemaleZombMaleSheet_4
+  - first:
+      213: -8359642969458657952
+    second: HeroFemaleZombMaleSheet_5
+  - first:
+      213: -8079599967798066018
+    second: HeroFemaleZombMaleSheet_6
+  - first:
+      213: -8201671232004407943
+    second: HeroFemaleZombMaleSheet_7
+  - first:
+      213: -7304110329589952596
+    second: HeroFemaleZombMaleSheet_8
+  - first:
+      213: 1862569846156827798
+    second: HeroFemaleZombMaleSheet_9
+  - first:
+      213: -4850166581458943286
+    second: HeroFemaleZombMaleSheet_10
+  - first:
+      213: -8238405005821229048
+    second: HeroFemaleZombMaleSheet_11
+  - first:
+      213: 6857675823469266270
+    second: HeroFemaleZombMaleSheet_12
+  - first:
+      213: 4320970381258625216
+    second: HeroFemaleZombMaleSheet_13
+  - first:
+      213: -7684431502578046763
+    second: HeroFemaleZombMaleSheet_14
+  - first:
+      213: 6853551104351578774
+    second: HeroFemaleZombMaleSheet_15
+  - first:
+      213: -4522551526233612964
+    second: HeroFemaleZombMaleSheet_16
+  - first:
+      213: -1223301720913346128
+    second: HeroFemaleZombMaleSheet_17
+  - first:
+      213: -8035697501187342616
+    second: HeroFemaleZombMaleSheet_18
+  - first:
+      213: -3610153524735171041
+    second: HeroFemaleZombMaleSheet_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 81
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbe0ec4eafbe5560800000000000000
+      internalID: 7304486400976546802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 77
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef9a3f727a1dbf50800000000000000
+      internalID: 6898699283264610278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 90
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca15f5bd15b753d80800000000000000
+      internalID: -8271569549093023316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 90
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb52f7e634d612300800000000000000
+      internalID: 225581592729298367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 90
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78a98a567034ccd0800000000000000
+      internalID: -2538851005046871939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 90
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0653354b2059cfb80800000000000000
+      internalID: -8359642969458657952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_6
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 90
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94832803ae7fdf80800000000000000
+      internalID: -8079599967798066018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 90
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d36d3087fcd2e80800000000000000
+      internalID: -8201671232004407943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 46
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf8784aa5692aa90800000000000000
+      internalID: -7304110329589952596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 45
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c1881286d29d910800000000000000
+      internalID: 1862569846156827798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 45
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac24ba2013fb0bcb0800000000000000
+      internalID: -4850166581458943286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 45
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808c930db4e4bad80800000000000000
+      internalID: -8238405005821229048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 45
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e558ba2f3db5b2f50800000000000000
+      internalID: 6857675823469266270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 45
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c097e31bab27fb30800000000000000
+      internalID: 4320970381258625216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_14
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 45
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8a304234a6b5590800000000000000
+      internalID: -7684431502578046763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 45
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69aacd0fa64bc1f50800000000000000
+      internalID: 6853551104351578774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dd170395bac31c0800000000000000
+      internalID: -4522551526233612964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_17
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b106dfe095f50fe0800000000000000
+      internalID: -1223301720913346128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 30
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eefb3792b77b7090800000000000000
+      internalID: -8035697501187342616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroFemaleZombMaleSheet_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1629852f7826edc0800000000000000
+      internalID: -3610153524735171041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
